@@ -3,3 +3,4 @@ Cambios de caracteristicas 1
 Cambiso de rama 1
 
 cambio para probar un merge con fastforward
+cambio para probar un merge con fastforward2
