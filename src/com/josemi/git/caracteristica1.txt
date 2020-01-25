@@ -13,3 +13,5 @@ probar bajada remota 1
 Entre dos ficheros
 
 Añado los cambios de la feature 1
+
+Añado los cambios de la feature 2
