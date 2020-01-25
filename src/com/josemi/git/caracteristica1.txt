@@ -15,3 +15,6 @@ Entre dos ficheros
 Añado los cambios de la feature 1
 
 Añado los cambios de la feature 2_2
+
+
+Cambio que de momento no quiero liberar porque no esta terminado
