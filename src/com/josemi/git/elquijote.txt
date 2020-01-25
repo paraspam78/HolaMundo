@@ -1,5 +1,6 @@
 Cambio arriba para conflicto
 Conflicto3
+Conflicto2
 Cambio arriba Hola mundo.
 
 
