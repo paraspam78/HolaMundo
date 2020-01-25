@@ -18,3 +18,6 @@ Añado los cambios de la feature 2_2
 
 
 arreglo rapido de produccion
+
+
+Cambio que de momento no quiero liberar porque no esta terminado
