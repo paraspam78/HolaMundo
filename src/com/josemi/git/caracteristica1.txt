@@ -14,4 +14,4 @@ Entre dos ficheros
 
 Añado los cambios de la feature 1
 
-Añado los cambios de la feature 2
+Añado los cambios de la feature 2_2
