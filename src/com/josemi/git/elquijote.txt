@@ -1,5 +1,5 @@
 Cambio arriba para conflicto
-Conflicto
+Conflicto2
 Cambio arriba Hola mundo.
 
 
